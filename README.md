@@ -3,9 +3,9 @@
 
 Ubuntu Version : 22.04
 
-TensorFlow Version : 2.18.0 \n
-Install Code(pip install tensorflow==2.18.0) \n
-Re-Install Code(pip uninstall tensorflow) -> (pip install tensorflow) \n
+TensorFlow Version : 2.18.0
+Install Code(pip install tensorflow==2.18.0)
+Re-Install Code(pip uninstall tensorflow) -> (pip install tensorflow)
 
 Keras Version : 3.6.0
 Install Code(pip install keras==3.6.0)
