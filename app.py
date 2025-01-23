@@ -23,7 +23,7 @@ model.add(Flatten())
 model.add(Dense(81*9))
 model.add(Reshape((-1,9)))
 model.add(Activation('softmax'))
-model.load_weights('/home/ai/Desktop/TF/Sudoku_Make/best_weights.keras')
+model.load_weights('Change to Your Location')
 
 def solve_sudoku_with_nn(model, puzzle):
     # Preprocess the input Sudoku puzzle
